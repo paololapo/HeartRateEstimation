@@ -14,7 +14,7 @@
 # Time and Frequency Analysis
 [ ] Statistical Analysis
 
-[ ] Fourier Analysis: do the fourier transform, plot the spectrum, describe it a little, maybe understand what is happening by using google
+[P] Fourier Analysis: do the fourier transform, plot the spectrum, describe it a little, maybe understand what is happening by using google
 
 # Filter
 [ ] Research filter types and utility
