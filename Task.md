@@ -5,7 +5,7 @@
 	[ ] Implement the consequences of calibration
 	[ ] Write Introduction, with example plotting
 
-[ ] (1.3) Find correlation between data, and find a way to reduce dimensionality. Select most important features ((? TSE and UMAP ?))
+[J] (1.3) Find correlation between data, and find a way to reduce dimensionality. Select most important features ((? TSE and UMAP ?))
 	[ ] Find correlation by eye (create better pairplot)
 	[ ] Find correlation by PCA or similar (use 90% variance retained)
 	[ ] Choose important new axis or features
