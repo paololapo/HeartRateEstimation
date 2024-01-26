@@ -1,5 +1,5 @@
 # Data Preparation
-[ ] (1.1 e 1.2) Load the dataset, clean the dataset if needed, write the introduction and do some initial plotting of the data, to show what we are working with
+[L] (1.1 e 1.2) Load the dataset, clean the dataset if needed, write the introduction and do some initial plotting of the data, to show what we are working with
 	[ ] Load and clean data (dropped "Log Mode","Log Freq", "Timestamp"), select range of data without interference
 	[ ] Understand the role of calibration
 	[ ] Implement the consequences of calibration
