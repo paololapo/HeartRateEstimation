@@ -1,0 +1,28 @@
+0
+
+The respiratory rate is: 11.12
+BPM from Bandpass Method: (75.06±0.15) ± (2.49±0.15)
+BPM from Wavelet Method: (70.18±0.14) ± (1.9±0.14)
+BPM from Alternative Method: (74.19±0.63) ± (5.0±0.63)
+
+1
+BPM from Bandpass Method: (75.11±0.27) ± (3.64±0.27)
+BPM from Alternative Method: (75.0±0.41) ± (5.0±0.41)
+
+2
+BPM from Bandpass Method: (75.89±0.24) ± (4.0±0.24)
+BPM from Alternative Method: (75.0±0.41) ± (5.0±0.41)
+
+3
+BPM from Bandpass Method: (76.27±0.4) ± (3.83±0.4)
+BPM from Alternative Method: (75.0±0.41) ± (5.0±0.41)
+
+4
+BPM from Bandpass Method: (78.88±0.36) ± (3.75±0.36)
+BPM from Alternative Method: (71.64±0.25) ± (2.64±0.25)
+Compatibility between Bandpass and Alternative: 1.58
+
+5
+BPM from Bandpass Method: (76.15±0.3) ± (3.88±0.3)
+BPM from Alternative Method: (75.0±0.41) ± (5.0±0.41)
+Compatibility between Bandpass and Alternative: 0.18
