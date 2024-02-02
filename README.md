@@ -1,7 +1,7 @@
-# HeartRateEstimation
+# Heart Rate Estimation
 
 ## The context 
-This is the final project for the "Laboratory of computational physics (MOD. A)" course in "Physics of Data" master program, University of Padua.
+This is the final project for the "Laboratory of computational physics (MOD. A)" course in "Physics of Data" master program, University of Padua. <br>
 Authors: [Paolo Lapo Cerni](https://github.com/paololapo), [Jacopo Carotenuto](https://github.com/jacopocarotenuto), [Lorenzo Vigorelli](https://github.com/LorenzoVigorelli), [Arman Singh Bains](https://github.com/T3X3K)
 
 ## The project
@@ -14,54 +14,23 @@ The first one include the data detected from a sensor placed on a bed stave, und
 Instead the second include the data detected from a sensor placed on the subject chest directly on a sweater.  
 
 ### Table of Content
-1. [Introduction](#introduction)
-2. [Preparing the Dataset](#preparing-the-dataset)
-
-	2.1 [Data Loading and Calibration](#data-loading-and-calibration)
-
-	2.2 [Sample Rate Analysis](#sample-rate-analysis)
-
-	2.3 [Showcasing the Data](#showcasing-the-data)
-
-3. [Statistical Analysis](#statistical-analysis)
-
-	3.1 [Dimensionality Reduction](#dimensionality-reduction)
-
-4. [Discrete Fourier Transform](#discrete-fourier-transform)
-
-	4.1 [Passband Filter](#passband-filter)
-
-	4.1 [Gaussian Filter](#gaussian-filter)
-
-5. [Wavelet Transform](#wavelet-tranform)
-
-	5.1 [Peaks Analysis](#peaks-analysis)
-
-6. [Alternative Methods](#alternative-method)
-
-	6.1 [Subtracting the Baseline](#subtracting-the-baseline)
-
-	6.2 [Finding the Peaks](#finding-the-peaks)
-
-	6.3 [Gaussian Fitting](#gaussian-fitting)
-
-	6.4 [Respiratory Rate](#respiratory-rate-estimation)
-
-7. [Conclutions](##Conclutions)
+1. Introduction
+2. Preparing the Dataset
+3. Statistical Analysis
+4. Discrete Fourier Transform
+5. Wavelet Transform
+6. Alternative Methods
+7. Conclusions
 
 We all contributed equally in achieving the results, working simultaneously on the several parts of the projects.
 Obviouly different people worked more on different parts as explained in this list:
-- Paolo Lapo: focused on developing the filters
+- Paolo Lapo Cerni: focused on developing the filters
 - Jacopo Carotenuto: focused on peaks analysis
-- Lorenzo Vigorelli: focused on data cleaning and graphical rerpresentation
-- Arman Singh Bains: focuded on the statistical analysis
+- Lorenzo Vigorelli: focused on data cleaning and graphical rapresentation
+- Arman Singh Bains: focused on the statistical analysis
 
 <br>
-<br>
-
-In this image are shown the final results for the BPM analysis.
-<br>
-
+Fourier spectrum of the underlying phenomena:
 <p align="center">
-<img src="Final-Gaussian-Comparison.png" alt="schematics" width="200%" height="70%">
+<img src="Fourier_spectrum.png" alt="schematics" width="200%" height="70%">
 </p>
